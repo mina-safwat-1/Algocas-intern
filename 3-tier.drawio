@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="Page-1" id="Q1kGPmyqLwD0nfMzDDaY">
-    <mxGraphModel dx="1678" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,6 +165,9 @@
         </mxCell>
         <mxCell id="uqhtFpEZeq0OSkHGxfnI-195" value="Private Subnet" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uqhtFpEZeq0OSkHGxfnI-2">
           <mxGeometry x="577" y="950" width="84" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uqhtFpEZeq0OSkHGxfnI-196" value="public subnets" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="uqhtFpEZeq0OSkHGxfnI-2">
+          <mxGeometry x="185.75" y="160" width="84" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uqhtFpEZeq0OSkHGxfnI-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uqhtFpEZeq0OSkHGxfnI-69" target="uqhtFpEZeq0OSkHGxfnI-55">
           <mxGeometry relative="1" as="geometry" />
